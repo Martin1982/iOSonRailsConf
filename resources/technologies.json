@@ -1,0 +1,29 @@
+{
+    "technologies": [
+        {
+            "id": "1",
+            "name": "Ruby gems",
+            "image": "resources/images/1.png"
+        },
+        {
+            "id": "2",
+            "name": "Ruby on Rails",
+            "image": "resources/images/2.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Sencha Touch",
+            "image": "resources/images/3.png"
+        },
+        {
+            "id": "4",
+            "name": "JavaScript",
+            "image": "resources/images/4.png"
+        },
+        {
+            "id": "5",
+            "name": "HTML5",
+            "image": "resources/images/5.png"
+        }
+    ]
+}
